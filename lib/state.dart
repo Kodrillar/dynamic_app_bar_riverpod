@@ -7,8 +7,8 @@ class TabState {
 
   factory TabState.initial() => TabState(tabIndex: 0);
 
-  String get image => Tab.properties[tabIndex]!.tabImage;
-  String get title => Tab.properties[tabIndex]!.tabTitle;
+  String get image => Tab.properties[tabIndex].tabImage;
+  String get title => Tab.properties[tabIndex].tabTitle;
 
   TabState copyWith({int? tabIndex}) =>
       TabState(tabIndex: tabIndex ?? this.tabIndex);

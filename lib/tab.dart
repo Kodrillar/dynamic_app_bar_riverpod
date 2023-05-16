@@ -1,14 +1,14 @@
 class Tab {
-  static Map<int, TabProperties> properties = {
-    0: TabProperties(
+  static List<TabProperties> properties = [
+    TabProperties(
       tabImage: 'assets/images/sponsors.jpg',
       tabTitle: 'Sponsors',
     ),
-    1: TabProperties(
+    TabProperties(
       tabImage: 'assets/images/alumni_11.jpg',
       tabTitle: 'Alumni',
     ),
-  };
+  ];
 }
 
 class TabProperties {
