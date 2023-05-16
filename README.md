@@ -2,7 +2,7 @@
 
 Dynamic Sliver AppBar with Riverpod.
 
-<video src="assets/images/app.mp4" autoplay="true" width="300"/>
+https://github.com/Kodrillar/dynamic_app_bar_riverpod/assets/67793558/6c0f706c-0caf-4814-92ce-2b4145b82a60
 
 ## Getting Started
 
