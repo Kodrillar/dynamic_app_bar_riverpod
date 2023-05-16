@@ -2,7 +2,7 @@
 
 Dynamic Sliver AppBar with Riverpod.
 
-<video src="assets/images/app.mp4" autoplay="true" width="300">
+<video src="assets/images/app.mp4" autoplay="true" width="300"/>
 
 ## Getting Started
 
